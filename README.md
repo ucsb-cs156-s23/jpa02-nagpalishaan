@@ -2,7 +2,7 @@
 
 Repo: https://ucsb-cs156-s23/jpa02-nagpalishaan
 
-Deployed at: https://jpa02-inagpal.herokuapp.com
+Deployed at: https://jpa02h-inagpal.herokuapp.com
 
 
 # About this repo
